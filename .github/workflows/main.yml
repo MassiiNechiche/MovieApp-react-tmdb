@@ -1,3 +1,5 @@
+name: Build and push docker image
+
 on: push
 
 jobs:
